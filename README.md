@@ -15,8 +15,10 @@ You will also need to install the necessary python libraries. Do so by running `
 
 # Using
 Use `twerp.py` as a command-line tool with the following syntax:
+
     twerp.py <your username> <target username>
     eg. $ python twerp.py aaronsdevera kennydurp_in
+    
 No '@' signs.
 
 The twerp.py program will a slew of generation messages. Afterwards, a private list will appear on your twitter account named after your target, with its members comprised of everyone your target follows!

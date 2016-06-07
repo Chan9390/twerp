@@ -5,6 +5,7 @@ See what you target sees! This tool allows you to enter any non-private Twitter 
 
 # Setup
 You will need to generate consumer and token keys through the [Twitter Developer Application Managerment console](https://apps.twitter.com) to gain access to the Twitter API. Once you have all of the read-write authorizations, create a file named `keys` local to `twerp.py`. In this file, enter the authorizations keys on new lines in this order, like so:
+
     cosumer-key
     consumer-secret
     token-key
